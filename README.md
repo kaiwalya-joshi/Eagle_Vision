@@ -1,8 +1,8 @@
 # Eagle_Vision
 
 This repository is created for **Institute Technical Summer
-Project (ITSP).** i.e. arranged by Institute Technical Council(ITC)
-of IIT Bombay. This repository consist of codes and images related 3D
+Project (ITSP).** arranged by Institute Technical Council(ITC)
+of IIT Bombay. This repository consists of codes and images related to 3D
 mapping with bot.  
 
 ## Short Description:
@@ -12,7 +12,7 @@ Our Project mainly follows like this:
  - 3D Mapping    
      
 ### Bot Construction:
-We designed a two wheeler bot in a gazebo environment.
+We designed a two-wheeler bot in a gazebo environment.
 The bot is made from scratch with the help of urdf files.
 We have connected a LaserScan sensor (Hokuyo) which is used
 for automation.We attached the kinect-like RGB-D camera sensor 
@@ -52,7 +52,7 @@ cd ~/catkin_ws/src
 git clone https://github.com/kaiwalya-joshi/Eagle_Vision
 ``
 
-Go th the RTAB-Map official webpage and install RTAB-Map
+Go to the RTAB-Map official webpage and install RTAB-Map
 package: [RTAB-Map Installation](https://github.com/introlab/rtabmap_ros#ros2-distribution)
 
 Run catkin_make command
@@ -75,7 +75,7 @@ Now you are ready to execute your project.
 
 ## How to run Simulation:
 
-Run the following coomand in your tutorial:
+Run the following command in your terminal:
 add `source ~/carkin_ws/devel/setup.bash` at the
 bottom of your `.bashrc` file
 
