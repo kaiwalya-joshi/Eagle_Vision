@@ -52,7 +52,7 @@ cd ~/catkin_ws/src
 git clone https://github.com/kaiwalya-joshi/Eagle_Vision
 ``
 
-Go th the RTAB-Map official webpage and install RTAB-Map
+Go to the RTAB-Map official webpage and install RTAB-Map
 package: [RTAB-Map Installation](https://github.com/introlab/rtabmap_ros#ros2-distribution)
 
 Run catkin_make command
