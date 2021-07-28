@@ -75,13 +75,11 @@ Now you are ready to execute your project.
 
 ## How to run Simulation:
 
-<<<<<<< HEAD
 Run the following command in your terminal:
-=======
->>>>>>> 8d876d8909122441880898b6f467bab552d05f61
 add `source ~/carkin_ws/devel/setup.bash` at the
-bottom of your `.bashrc` file
-Run the following coomand in your terminal:
+bottom of your `.bashrc` file.
+
+Run the following command in your terminal:
 
 
 1st terminal:
